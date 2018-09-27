@@ -18,10 +18,12 @@ cd temp
 touch temp.txt
 Tarea de Unix >temp.txt
 
-#cat temp.txt
+cat temp.txt
 \rm temp.txt
 cd ..
 \rmdir temp/
+
+
 
 
 
